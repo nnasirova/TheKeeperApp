@@ -1,21 +1,21 @@
 const notes = [
   {
     key: 1,
-    title: "Delegation",
+    title: "OOP",
     content:
-      "Q. How many programmers does it take to change a light bulb? A. None – It’s a hardware problem"
+      "Q. Whats the object-oriented way to become wealthy? A: Inheritance"
   },
   {
     key: 2,
     title: "Loops",
     content:
-      "How to keep a programmer in the shower forever. Show him the shampoo bottle instructions: Lather. Rinse. Repeat."
+      "Q. How to keep a programmer in the shower forever. A: Show him the shampoo bottle instructions: Lather. Rinse. Repeat."
   },
   {
     key: 3,
-    title: "Arrays",
+    title: "IT",
     content:
-      "Q. Why did the programmer quit his job? A. Because he didn't get arrays."
+      "Q. How many programmers does it take to change a light bulb? A: None, that's a hardware problem."
   },
   {
     key: 4,
